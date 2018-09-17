@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+}
+class "Хозяйка" as H {
+Духовка
+Накормить гостей Эклеры (Необходимый набор продуктов, Приезд гостей)
+}
+hide circle
+@enduml
