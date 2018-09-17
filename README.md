@@ -7,13 +7,13 @@ http://127.0.0.1:52344/idef0/index.html?id=3
 * UML:
 ### @startuml
 ### skinparam class {
-###	BackgroundColor White
-###	ArrowColor Black
-###	BorderColor Black
+### BackgroundColor White
+### ArrowColor Black
+### BorderColor Black
 ### }
-### class "Хозяйка" as H {
-### D?
-### G? E? (P?, F?)
-### }
-### hide circle
-### @enduml
+ ### class "Хозяйка" as H {
+ ### Духовка
+ ### Накормить гостей Эклеры (Необходимый набор продуктов, Приезд гостей)
+###  }
+###  hide circle
+###@enduml
