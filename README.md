@@ -31,6 +31,15 @@
 ### [Ссылка на файл](https://github.com/Miragencia/SpiridonovaKS.GitHub.IO/blob/master/%D0%9B%D0%B0%D0%B1%203/%D0%A8%D0%B5%D1%81%D1%82%D1%8C%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2.rsf)
 
 # Лабораторная 4
-### [Ссылка в браузере]
+### [Ссылка в браузере](http://127.0.0.1:50005/idef0/index.html?id=3)
 
-### [Модель]
+### [Модель 6 вопросов](https://github.com/Miragencia/SpiridonovaKS.GitHub.IO/blob/master/%D0%9B%D0%B0%D0%B1%204%2C5/%D0%900.PNG)
+
+# Лабораторная 5
+### [PDC](https://github.com/Miragencia/SpiridonovaKS.GitHub.IO/blob/master/%D0%9B%D0%B0%D0%B1%204%2C5/%D0%901-3.PNG)
+
+### [DFD для DO](https://github.com/Miragencia/SpiridonovaKS.GitHub.IO/blob/master/%D0%9B%D0%B0%D0%B1%204%2C5/DFD(do).PNG)
+
+### [DFD для CHECK](https://github.com/Miragencia/SpiridonovaKS.GitHub.IO/blob/master/%D0%9B%D0%B0%D0%B1%204%2C5/DFD(check).PNG)
+
+### [Файл Модели]()
