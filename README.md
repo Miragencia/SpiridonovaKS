@@ -42,4 +42,4 @@
 
 ### [DFD для CHECK](https://github.com/Miragencia/SpiridonovaKS.GitHub.IO/blob/master/%D0%9B%D0%B0%D0%B1%204%2C5/DFD(check).PNG)
 
-### [Файл Модели]()
+### [Файл Модели](https://github.com/Miragencia/SpiridonovaKS.GitHub.IO/blob/master/%D0%9B%D0%B0%D0%B1%204%2C5/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%2C%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B.idl)
